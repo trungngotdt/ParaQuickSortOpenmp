@@ -1,0 +1,18 @@
+Bat dau quicksort mang 100000000
+  Su dung 2 Thread 
+
+Thoi gian chay song song 22.826952 time 
+
+Thoi gian QuickSort 31.822000 seconds 
+
+	===================================================	
+
+Bat dau quicksort mang 100000000
+  Su dung 4 Thread 
+
+Thoi gian chay song song 16.442838 time 
+
+Thoi gian QuickSort 31.388000 seconds 
+
+	===================================================	
+
